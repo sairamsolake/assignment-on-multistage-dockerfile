@@ -1,4 +1,4 @@
-)
+
 📌 Project Overview
 
 This project demonstrates a Production-Ready Kubernetes Deployment for a React application served using NGINX.
